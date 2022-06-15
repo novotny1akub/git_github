@@ -11,6 +11,7 @@
 # !git add $(ls -r)
 # !git add .
 # !git add *
+# !git commit -a -m "Change titles and styling on homepage"
 # !git status
 # !git show --> ukazuje log předchozího commitu
 # !git diff --> změny mezi dvěma commity nebo mezi commitem a stávající verzí repozitáře a commitem
