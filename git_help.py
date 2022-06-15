@@ -1,4 +1,5 @@
 # https://naucse.python.cz/course/pyladies/git/basics/
+# https://nceas.github.io/oss-lessons/version-control/1-git-basics.html
 
 ## short
 # !git init
