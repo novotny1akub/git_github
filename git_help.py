@@ -1,7 +1,6 @@
 # https://naucse.python.cz/course/pyladies/git/basics/
 
 ## short
-# First right click the tab corresponding to any file in your repository and click "set console working directory."
 # !git init
 # !git add file_name_goes_here.py
 # !git commit -m "My commit"
