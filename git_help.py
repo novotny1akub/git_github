@@ -12,6 +12,7 @@
 # !git add .
 # !git add *
 # !git commit -a -m "Change titles and styling on homepage"
+# !git show <commitHash>:/path/to/file --> ./my_file.py
 # !git status
 # !git show --> ukazuje log předchozího commitu
 # !git diff --> změny mezi dvěma commity nebo mezi commitem a stávající verzí repozitáře a commitem
